@@ -23,38 +23,6 @@ module.exports = {
                     '/guide/configuration',
                     '/guide/customizing',
                 ]
-            },
-            {
-                title: 'Setup',
-                collapsable: true,
-                children: [
-                    '/supported_libraries',
-                ]
-            },
-            {
-                title: 'Configuration',
-                collapsable: true,
-                children: [
-                    '/create_charts',
-                    '/adding_datasets',
-                    '/render_charts',
-                    '/api_charts',
-                ]
-            },
-            {
-                title: 'Customization',
-                collapsable: true,
-                children: [
-                    '/customize_charts',
-                    '/customize_datasets',
-                ]
-            },
-            {
-                title: 'Troubleshooting',
-                collapsable: true,
-                children: [
-                    '/full_example',
-                ]
             }
         ]
     }
